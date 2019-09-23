@@ -39,8 +39,6 @@ if (frameCount <= 120) {
     text(s, width/2, height/10);
     text(t, width/2, 800);
   pop()
-
-
 }
 
 if (frameCount >= 120) {
